@@ -1,0 +1,6 @@
+{
+  "name": "UNICEF Оюутны Холбоо",
+  "description": "UNICEF дэмжлэгтэй оюутны клубийн гишүүд, ирц, оролцоо, төлөвлөгөө, арга хэмжээний удирдлагын нэгдсэн цахим систем",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
